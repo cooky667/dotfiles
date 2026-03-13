@@ -1,0 +1,8 @@
+# ~/.gitconfig — add your git configuration here
+
+[user]
+    # name  = Your Name
+    # email = you@example.com
+
+[core]
+    # editor = vim
