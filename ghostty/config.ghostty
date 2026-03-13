@@ -1,0 +1,6 @@
+background-opacity = 0.85
+background-blur-radius = 12
+font-family = "JetBrains Mono"
+font-size = 13
+theme = "Gruvbox Dark"
+cursor-style = block
